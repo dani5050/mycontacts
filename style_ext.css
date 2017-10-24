@@ -18,7 +18,7 @@
  }
 
 table{
-background-color: #c7cacd;
+background-color: #e2e3e3;
 border-style: solid;
 border-width: 2px;
 }
@@ -37,18 +37,17 @@ background-color: darkgray
 body {
 
 background-color: #f0f0f0;
-font-family: "Helvetica", Arial, Serif;
-font-size: 16px;
+font-family: "Helvetica", Serif;
+font-size: 15px;
 margin:2px;
 padding:0;
-direction:ltr;
+/* direction:ltr; */
 
 }
 
 div{
 display: inline-table;
 /* border-style:solid; */
-
 
 }
 
@@ -69,11 +68,10 @@ width:360px;
 height:400px;
 }
 
-
-
 .tab05{
 width:360px;
 height:400px;
+position:relative;
 }
 
 .tab06{
