@@ -20,11 +20,13 @@
 table{
 background-color: #c7cacd;
 border-style: solid;
+border-width: 2px;
 }
 
 th{
 color:white;
 height: 25px;
+width:180px;
 
 }
 tr:hover{
@@ -37,73 +39,64 @@ body {
 background-color: #f0f0f0;
 font-family: "Helvetica", Arial, Serif;
 font-size: 16px;
-margin:0;
+margin:2px;
 padding:0;
 direction:ltr;
 
 }
 
 div{
-display: inline-block;
-margin:5px;
-/* position:relative; */
+display: inline-table;
+/* border-style:solid; */
 
 
 }
 
+
 .tab01{
-width:300px;
-height:600px;
-margin: 5px;
+width:360px;
+height:500px;
 position:relative;
 }
 
 .tab02{
-width:400px;
-height:600px;
-margin: 5px;
+width:360px;
+height:500px;
 position:relative;
 }
 .tab03{
-width:400px;
-height:600px;
-margin: 5px;
+width:360px;
+height:500px;
 }
 
 .tab04{
-width:400px;
-height:600px;
-margin: 5px;
+width:360px;
+height:500px;
 }
 
 .tab05{
-width:400px;
-height:600px;
-margin: 5px;
+width:360px;
+height:500px;
 }
 
 .tab06{
-width:400px;
-height:600px;
-margin: 5px;
+width:360px;
+height:500px;
 }
 
 .tab07{
-width:400px;
-height:600px;
-margin: 5px;
+width:360x;
+height:500px;
 }
 
 .tab08{
-width:400px;
-height:600px;
-margin: 5px;
+width:360px;
+height:500px;
 }
 
 .tab09{
-width:400px;
-height:600px;
-margin: 5px;
+width:360px;
+height:500px;
 }
 
 .tab01 th {
