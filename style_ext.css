@@ -55,7 +55,7 @@ display: inline-table;
 
 .tab01{
 width:360px;
-height:500px;
+height:400px;
 position:relative;
 }
 
@@ -66,13 +66,10 @@ position:relative;
 }
 .tab03{
 width:360px;
-height:500px;
+height:400px;
 }
 
-.tab04{
-width:360px;
-height:500px;
-}
+
 
 .tab05{
 width:360px;
