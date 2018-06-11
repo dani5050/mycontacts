@@ -7,47 +7,64 @@
 
 }
 
+h1{
+margin-top: 5px;
+margin-bottom:5px;
+color:black;
+text-align:center;
+padding-top: 10px;
+padding-bottom:0px;
+font-size: 20px;
+}
 
- td{
+
+header{
+background-color:#ABB7B7;
+margin: 2px;
+height: 40px;
+width: 356px;
+position:relative;
+
+}
+
+
+body {
+background-color: #f0f0f0;
+font-family: "Arial";
+font-size: 15px;
+}
+
+td{
  margin: auto;
  color:black;
  text-align:center;
  border-style: solid;
  border-color:gray;
  border-width: 1px;
+ height: 30px;
  }
 
 table{
 background-color: #e2e3e3;
-border-style: solid;
-border-width: 2px;
+/* border-style: solid;
+border-width: 1px; */
 }
 
 th{
 color:white;
-height: 25px;
+height: 45px;
 width:180px;
 
 }
 tr:hover{
 background-color: darkgray
-}
-
-
-body {
-
-background-color: #f0f0f0;
-font-family: "Helvetica", Serif;
-font-size: 15px;
-margin:2px;
-padding:0;
-/* direction:ltr; */
 
 }
+
+
 
 div{
 display: inline-table;
-/* border-style:solid; */
 
 }
 
@@ -60,7 +77,7 @@ position:relative;
 
 .tab02{
 width:360px;
-height:500px;
+height:400px;
 position:relative;
 }
 .tab03{
@@ -76,7 +93,7 @@ position:relative;
 
 .tab06{
 width:360px;
-height:500px;
+height:400px;
 }
 
 .tab07{
@@ -95,27 +112,27 @@ height:500px;
 }
 
 .tab01 th {
-background: linear-gradient(#004dc0,#002c7b);
+background-color: #446CB3;
 }
 
 .tab02 th {
-background: linear-gradient(#d50103,#7f0102);
+background-color: #D91E18;
 }
 
 .tab03 th {
-background: linear-gradient(#296417,#1d4710);
+background-color: #1E824C;
 }
 
 .tab04 th {
-background: linear-gradient(#ba5d00,#723800);
+background-color: #EB9532;
 }
 
 .tab05 th {
-background: linear-gradient(#610f4d,#3f092d);
+background-color: #674172;
 }
 
 .tab06 th {
-background: linear-gradient(#0f66b2,#01296e);
+background-color: #34495E;
 }
 
 /* .tab07 th {
@@ -123,10 +140,10 @@ background: linear-gradient(#015a65,#022f3d);
 } */
 
 .tab08 th {
-background: linear-gradient(#ba5d00,#723800);
+background-color: #34495E;
 }
 .tab09 th {
-background: linear-gradient(#9ab1c1,#2b333a);
+background-color: #34495E;
 }
 
 
